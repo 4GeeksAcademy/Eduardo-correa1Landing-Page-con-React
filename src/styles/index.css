@@ -1,12 +1,17 @@
 
-/* 
+.imgjt{
+    height: 60vh;
+    background-size: cover;
+    background-position: center;
+    background-image: url("https://media.licdn.com/dms/image/C4D1BAQGGdNo6IlDOCQ/company-background_10000/0/1583275772247?e=2147483647&v=beta&t=ew3hpSAiCXTa43sck6sdYbo3gn09VJaKiFTsizSa0HU");
+}
+.jth1{
+    color: rgb(241, 233, 5);
+}
 
-    You can write your own styles here...
-    
-    
-    ...Or you can use the import command to include 
-    other sylesheets into your bunde as well, e.j:
-    
-    import 'relative/path/to/stylesheet.scss';
-
-*/
+.navbar-toggler {
+    border-color: rgba(255, 255, 255, 0.1);
+  }
+  .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba%28255, 255, 255, 1%29' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+  }
