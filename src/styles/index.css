@@ -1,12 +1,16 @@
-
+body{
+    background-color: rgba(0, 0, 0, 0.918);
+}
 .imgjt{
     height: 60vh;
     background-size: cover;
     background-position: center;
-    background-image: url("https://media.licdn.com/dms/image/C4D1BAQGGdNo6IlDOCQ/company-background_10000/0/1583275772247?e=2147483647&v=beta&t=ew3hpSAiCXTa43sck6sdYbo3gn09VJaKiFTsizSa0HU");
+    background-image: url("https://nariatravel.gr/wp-content/uploads/2017/09/airliner-plane-sunset-1.jpg");
+    
 }
 .jth1{
-    color: rgb(241, 233, 5);
+    color: orangered;
+    
 }
 
 .navbar-toggler {
