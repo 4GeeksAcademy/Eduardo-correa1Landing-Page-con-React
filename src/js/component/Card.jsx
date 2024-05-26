@@ -1,5 +1,6 @@
 import React from "react";
 
+
 const Card = ({image, text, description}) => {
     return (
       <div className="card" style={{ width: '18rem' }}>
