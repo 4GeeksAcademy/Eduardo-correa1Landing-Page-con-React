@@ -1,6 +1,6 @@
 import React from "react";
 
-const ImagenPrincipal = () =>{
+const Jumbotron = () =>{
     return(
         <div className="mt-0 p-5 bg-primary text-white rounded imgjt">
   <h1 className="jth1">Explore the world</h1>
@@ -9,4 +9,4 @@ const ImagenPrincipal = () =>{
     )
 }
 
-export default ImagenPrincipal;
+export default Jumbotron;
